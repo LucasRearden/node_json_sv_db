@@ -1,0 +1,14 @@
+{
+  "name": "practica1",
+  "version": "0.0.1",
+  "description": "armaremos un pequeño sv",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "lucasr",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

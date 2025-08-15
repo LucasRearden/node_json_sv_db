@@ -1,0 +1,82 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NODEJS"
+        },
+        {
+          "nombre": "RREACTJS"
+        },
+        {
+          "nombre": "JAVASCRIPT"
+        }
+      ],
+      "id": "4143"
+    },
+    {
+      "id": "d38d",
+      "nombre": "lucas",
+      "apellido": "dev",
+      "materias": [
+        {
+          "nombre": "JAVASCRIPT"
+        },
+        {
+          "nombre": "quimica"
+        },
+        {
+          "nombre": "JAVASCRIPT"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "prromedio": 8.2,
+      "id": "e89d"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "prromedio": 8.2,
+      "id": "7fd5"
+    },
+    {
+      "id": "chepe",
+      "nombre": "Franco",
+      "apellido": "Romanelli",
+      "prromedio": 5
+    },
+    {
+      "id": "879f",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "prromedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NODEJS de cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "2ea3"
+    },
+    {
+      "nombre": "Angular de cero",
+      "duracion": 5,
+      "dificultad": "intermedia",
+      "id": "c38e"
+    },
+    {
+      "nombre": "React de cero",
+      "duracion": 6,
+      "dificultad": "alta ",
+      "id": "d8a6"
+    }
+  ]
+}
